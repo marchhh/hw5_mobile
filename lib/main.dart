@@ -65,16 +65,13 @@ class HomePage extends StatelessWidget {
                             color: Colors.purple.shade200,
                           ),
                         ),
-                        TextButton(
-                          onPressed: () {},
-                          child: Text(
+                        Text(
                             'THE NUMBER',
                             style: TextStyle(
                               fontSize: 15.0,
                               color: Colors.purple,
                             ),
-                          ),
-                        )
+                          ),      
                       ],
                     ),
                   ],
